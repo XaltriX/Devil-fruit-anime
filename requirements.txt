@@ -3,7 +3,7 @@ pyrogram
 pyrofork
 TgCrypto
 pyromod==1.5
-aiogram
+aiogram==2.25.2
 
 # --- Scheduling Support ---
 schedule

@@ -13,6 +13,7 @@ dnspython
 # --- For-Web-Response ------- #
 aiohttp
 python-dotenv
+aiogram==2.25.2
 # --- For-Web-Response ------- #
 pytz
 requests
@@ -21,7 +22,6 @@ shortzy
 aiofiles
 asyncio
 
-aiogram==2.25.2
-aiohttp
-pymongo
+
+
 

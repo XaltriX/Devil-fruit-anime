@@ -1,27 +1,25 @@
-# --- For-Bot-Working --------- #
+# --- Telegram Bot Libraries ---
 pyrogram
 pyrofork
 TgCrypto
 pyromod==1.5
+aiogram==2.25.2
+
+# --- Scheduling Support ---
 schedule
-APscheduler
-# --- For-Database ------------ #
+APScheduler
+
+# --- Database Drivers ---
 pymongo
-requests
 motor
 dnspython
-# --- For-Web-Response ------- #
+
+# --- Web & API Support ---
+requests
 aiohttp
 python-dotenv
-aiogram==2.25.2
-# --- For-Web-Response ------- #
 pytz
-requests
 bs4
+beautifulsoup4
 shortzy
 aiofiles
-asyncio
-
-
-
-

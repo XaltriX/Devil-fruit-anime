@@ -41,8 +41,8 @@ HELP_TEXT = """<b>⁉️ ʜᴇʟʟᴏ {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-Update : @illegalCollege
-Devloper : @metaui </b>
+Update : @NeonGhost_Network
+Devloper : @NeonGhost </b>
 """
 
 

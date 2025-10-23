@@ -1,6 +1,6 @@
 # --- Telegram Bot Libraries ---
-git+https://github.com/pyrogram/pyrogram.git@dev
-tgcrypto
+https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
+pyrofork==2.3.59
 pyromod
 aiogram
 
